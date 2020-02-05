@@ -1,0 +1,4 @@
+module.exports = {
+  APIURL: "http://localhost:8899/api",
+  GOOGLEAPIKEY: ""
+};
